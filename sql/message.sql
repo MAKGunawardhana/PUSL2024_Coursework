@@ -1,0 +1,1 @@
+SELECT * FROM green_supermarket.message;
